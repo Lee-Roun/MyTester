@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Tester</string>
+    <string name="ID">I D</string>
+    <string name="PW">PW</string>
+    <string name="Login">로그인</string>
+    <string name="Join">회원가입</string>
+    <string name="Find">찾기</string>
+    <string name="Name">이름</string>
+    <string name="Age">나이</string>
+    <string name="Phone">휴대폰</string>
+    <string name="Email">이메일</string>
+    <string name="Gender">성별</string>
+    <string name="Send">가입</string>
+    <string name="Cancel">취소</string>
+    <string name="Check">PW CHECK</string>
+</resources>
